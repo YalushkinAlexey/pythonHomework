@@ -6,3 +6,5 @@ n = int(input("введите n="))
 for i in range(1, n+1):
     some_list.append(round(((1+(1/i))**i), 3))
 print(some_list)
+
+print([round(((1+(1/num))**num), 3) for num in range(1, n+1) ])
