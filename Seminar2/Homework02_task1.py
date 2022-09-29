@@ -3,9 +3,13 @@
 # 	- 6782 -> 23
 # 	- 0,56 -> 11
 
-number = str(input("введите вещественное число = "))
-sum = 0
+number = str(input("Введите вещественное число = "))
+sumN = 0
 for i in range(len(number)):
     if number[i].isdigit():
-        sum += int(number[i])
-print(sum)
+        sumN += int(number[i])
+print(sumN)
+
+number = list(number)
+print(sum([int(num) for num in number if num.isdigit()]))
+
