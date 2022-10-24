@@ -58,7 +58,7 @@ def type_d(message):
 def type_op(message):
     global op
     op = message.text
-    msg_text_res = complex_calc.calc(complex(a,b),complex(b,c),op)
+    msg_text_res = complex_calc.calc(complex(a,b),complex(c,d),op)
     spiterbot.send_message(message.from_user.id, msg_text_res)
 
 spiterbot.polling()
