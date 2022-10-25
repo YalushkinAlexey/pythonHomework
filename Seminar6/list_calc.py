@@ -105,6 +105,7 @@ def calculate(lst):         #А это очень сильное колдунс�
         
     print(digits)
 
+ 
         
 if __name__=='__main__':
     some_list = f(s)
