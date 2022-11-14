@@ -4,6 +4,8 @@
 
 colab(жмякать там -->) https://colab.research.google.com/drive/13yXKo8E0uE1338ln86tXWvilpOD-djVI?usp=sharing
 
+https://github.com/YalushkinAlexey/pythonHomework/blob/main/control_work/%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20(1)_html_525afe2a694b9f55.png
+
 1.  Корней на диапазоне -∞ до ∞   : бесконечное множество
 
 2.  Определить на каком диапазоне возрастает или убывает не представляется возможным, потому что их(диапазонов) количество бесконечно
