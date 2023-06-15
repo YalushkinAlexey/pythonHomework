@@ -11,17 +11,17 @@
 # elif a == b or c == b or c == a : print('равнобедренный ')
 # else : print('разносторонний')
 
-# ODD
-# odd = True
+# PrimeDigit
+# prime = True
 # maxDig = 100000
 # while True:
 #     n = int(input('введите число от 1 до 100000. n = '))
 #     if 0 < n < maxDig: break
 # for i in range (2, n//2):
 #     if n%i == 0 :
-#         odd = False
+#         prime = False
 #         break
-# if odd : print('число ', n, ' простое')
+# if prime : print('число ', n, ' простое')
 # else : print('число ', n, ' составное')
 
 #угадайка число
